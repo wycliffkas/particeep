@@ -1,0 +1,44 @@
+.card-title {
+	font-weight: bold;
+}
+
+img,
+svg {
+	width: 20px;
+}
+
+.btn {
+	padding: 1px 10px;
+	margin-top: 10px;
+}
+
+p {
+	margin-bottom: 0.5rem;
+}
+
+.disable-select {
+	user-select: none;
+}
+
+::selection {
+	background: transparent;
+}
+
+::-moz-selection {
+	background: transparent;
+}
+
+.form-select:focus,
+.btn:focus {
+	outline: none;
+	box-shadow: none;
+}
+
+.pagination-select {
+	width: 60px;
+	height: 40px;
+}
+
+.select-filter {
+	width: 200px;
+}
