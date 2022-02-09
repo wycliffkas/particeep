@@ -6,7 +6,7 @@
 
 3. Ajouter un bouton toggle like/dislike
 
-4. Ajouter un filtre par catégorie (de type multiselect) en supposant qu'on ne les connaisse pas à l'avance (il faut donc les récupérer dynamiquement depuis les films). Si tous les films d'une catégorie sont supprimés, celle-ci ne doit plus apparaître.
+4. Ajouter un filtre par catégorie en supposant qu'on ne les connaisse pas à l'avance (il faut donc les récupérer dynamiquement depuis les films). Si tous les films d'une catégorie sont supprimés, celle-ci ne doit plus apparaître.
 
 5. Ajouter un système de pagination avec les fonctionnalités suivantes:
     * Boutons précédent/suivant
